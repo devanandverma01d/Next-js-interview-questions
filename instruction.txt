@@ -1,0 +1,31 @@
+1. JavaScript(is a Scriptint language)------>React( is a library of JavaScript)----->NextJs( is a FrameWork of React).
+
+Q1. What is Next Js?
+    * Next Js is React framework with sever side rendering for production ready application.
+    Production ready mean- if it fullfills the demand of users and ready for deploye.
+==============================================================================================================
+Q2. What is framework?
+    * A framework is used for building and deploying an application quickly.
+
+Q3. What is a library?
+    * Library is used to inhance the functionality of an application.
+=============================================================================================================
+
+Q4. What is the difference between framwork and a library.
+1.
+    *Framework======> Framework provides ready-to-use tools,standard and template...for fast application development.
+    *Library========> Library do not provide above.
+2. 
+    * A framework can have multiple library, but a library can't have it's own framework.
+3.
+    * An application call the code of a library where as framework call/execute the code of an application.
+4.
+    * The concept of MVC(Model View Controller) is available only in framework, not in library.
+    MVC- MVC is a design pattern used to decouple user-interface (view), data (model), and application logic (controller).
+
+4. Example-
+            library-React,Jquery, Jquery UI, Chart.js,parsely(For form validation) etc.
+
+==============================================================================================================
+
+Q5.
