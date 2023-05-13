@@ -1,7 +1,12 @@
-1. JavaScript(is a Scriptint language)------>React( is a library of JavaScript)----->NextJs( is a FrameWork of React).
+1. JavaScript(is a Scripting language)------>React( is a library of JavaScript)----->NextJs( is a FrameWork of React).
+
+NOTE- Latest version of Next JS is 13.
 
 Q1. What is Next Js?
-    * Next Js is React framework with sever side rendering for production ready application.
+    * Next Js is React framework
+      It is loaded with a lot more features that enables us to build full-fledged production ready applcations.
+      In React Js we need to install third party libraries like- react-router dom for routing, axios for api call, 
+      and formik & yup for form handling and form validation. but in Next Js there is no need to install additional pakages.
     Production ready mean- if it fullfills the demand of users and ready for deploye.
 ==============================================================================================================
 Q2. What is framework?
@@ -28,4 +33,23 @@ Q4. What is the difference between framwork and a library.
 
 ==============================================================================================================
 
-Q5.
+Q5. Important features of Next Js?
+    * Automatic static optimization- 
+                        means static and dynamic becomes one, by using this features next js can build 
+                        hybrid applications, that contain both server rendered and statically generated pages.
+    * Hot code reload- 
+                        Next js server detects modified files and reload them automatically.
+    
+    * File base routing- No nedds to configure any url for routing.
+    * API Routes- It means we can create api by using next js.
+    * Support for CSS modules.
+    * Authentication.
+    * Server side rendering- React components are prerendered on server hence loads faster on client.
+    * Pre-rendering- Server side rendering is a type of pre-rendering. pre-rendering means- when Next js render the
+        pages, it's HTMl page already rendered.
+    * Node ecosystem.
+    * Built in typeScript support.
+
+
+================================================================================================================
+ 
